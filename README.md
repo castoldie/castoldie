@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=castoldie" alt="castoldie" /></a> </p>
 
-- 🔭 I’m currently working on [GeoCompetitorTracker](https://github.com/ayelenklas/geotracker)
+- 🔭 I’m currently working as Teaching Assistant by Le Wagon
 
-- 🌱 I’m currently learning **Scala**
+- 🌱 I’m currently learning **SQL and Spark**
 
 - 💬 Ask me about **Whatever you'd like!**
 
