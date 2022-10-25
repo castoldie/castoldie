@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Edmondo</h1>
-<h3 align="center">A future-to-be Data Engineer who just started his journey towards his objective</h3>
+<h3 align="center">I'm currently exploring possibilities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=castoldie&label=Profile%20views&color=0e75b6&style=flat" alt="castoldie" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=castoldie" alt="castoldie" /></a> </p>
 
-- 🔭 I’m currently working as Teaching Assistant by Le Wagon
+- 🔭 I’m currently working as a Teacher at Le Wagon
 
-- 🌱 I’m currently learning **SQL and Spark**
+- 🌱 I’m currently learning **JS & CSS**
 
 - 💬 Ask me about **Whatever you'd like!**
 
-- ⚡ Fun fact **You can bake cookies but you have to cook bacon.**
+- ⚡ Fun fact **One bakes cookies but you cook bacon.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
