@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Whatever you'd like!**
 
-- ⚡ Fun fact **One bakes cookies but you cook bacon.**
+- ⚡ Fun fact **One bakes cookies but cooks bacon.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
