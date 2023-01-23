@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a Teacher at Le Wagon
 
-- 🌱 I’m currently learning **JS & CSS**
+- 🌱 I’m currently learning **Advanced Python**
 
 - 💬 Ask me about **Whatever you'd like!**
 
