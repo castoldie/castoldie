@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Edmondo</h1>
-<h3 align="center">I'm currently exploring possibilities</h3>
+<h3 align="center">I'm currently expanding my knowledge in DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=castoldie&label=Profile%20views&color=0e75b6&style=flat" alt="castoldie" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=castoldie" alt="castoldie" /></a> </p>
 
-- 🔭 I’m currently working as a Teacher at Le Wagon
+- 🔭 I’m currently working as freelancer
 
-- 🌱 I’m currently learning **Advanced Python**
+- 🌱 I’m currently learning **DevOps / DevSecOps**
 
 - 💬 Ask me about **Whatever you'd like!**
 
-- ⚡ Fun fact **One bakes cookies but cooks bacon.**
+- ⚡ Fun fact **in Vim you can use :x instead of :wq to avoid changing the timestamps... Sneaky!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
