@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Whatever you'd like!**
 
-- ⚡ Fun fact **in Vim you can use :x instead of :wq to avoid changing the timestamps... Sneaky!**
+- ⚡ Fun fact: **in Vim you can use :x instead of :wq to avoid changing the timestamps... Sneaky!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
